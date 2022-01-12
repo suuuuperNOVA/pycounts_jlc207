@@ -1,4 +1,7 @@
 # pycounts_jlc207
+[![PyPI version](https://badge.fury.io/py/pycounts-jlc207.svg)](https://badge.fury.io/py/pycounts-jlc207)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pycounts-jlc207)
+[![Documentation Status](https://readthedocs.org/projects/pycounts-jlc207/badge/?version=latest)](https://pycounts-jlc207.readthedocs.io/en/latest/?badge=latest)
 
 Calculate word counts in a text file!
 
