@@ -9,8 +9,19 @@ $ pip install pycounts_jlc207
 ```
 
 ## Usage
+`pycounts_jlc207` can be used to count words in a text file and plot results
+as follows:
 
-- TODO
+```python
+from pycounts_jlc207.pycounts import count_words
+from pycounts_jlc207.plotting import plot_words
+import matplotlib.pyplot as plt
+
+file_path = "test.txt"  # path to your file
+counts = count_words(file_path)
+fig = plot_words(counts, n=10)
+plt.show()
+```
 
 ## Contributing
 
